@@ -32,7 +32,7 @@
 
 
 
-**Limitations**
+## Limitations
 
 1. The speed of the Pacman is too slow.
 2. The Pacman and the ghost flicker during movement.

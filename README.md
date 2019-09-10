@@ -1,3 +1,3 @@
 # PACMAN
 
-<img src="Gifs/intro.gif"/>
+<img src="Gifs/Intro.gif"/>

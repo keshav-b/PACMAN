@@ -20,7 +20,7 @@
 
 
 <img src="Gifs/gameover.gif"/>
-
+<hr>
 
 
 

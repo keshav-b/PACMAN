@@ -8,7 +8,7 @@
 
 `Clone the repo and run using Turbo C++`
 
-`To Activate Linkers:  **Options -> Linker -> Libraries -> Enable Graphics Library**`
+`To Activate Linkers:`  **`Options -> Linker -> Libraries -> Enable Graphics Library`**
 
 
 **Works with other IDEs if they have the support for graphics.h**
